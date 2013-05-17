@@ -1,0 +1,15 @@
+Abstract
+
+As e-commerce is becoming more and more popular, the number of customer reviews that a product receives grows rapidly.
+For a popular product, the number of reviews can be in hundreds or even thousands. This makes it difficult for a 
+potential customer to read them to make an informed decision. This project is helps in getting the reviews about a
+particular project using data from Twitter. For this the tweets about a particular product are collected and processed
+in order to determine whether the tweet is in favour of the product or in oppose of the product  by using language 
+processing. 
+               The aim of this project is to make an application in the field of natural language processing in
+order to find and implement an algorithm to solve the problem of measuring real-time comments made by user on products.
+For this we have collected the reviews form twitter that is tweets by different users about a particular product and 
+then the polarity of the tweet is determined that either it is negative, positive and neutral. For determining the 
+polarity of the tweet the sentiment of each word of the tweet is calculated and scores are given to public opinions
+of the products which could being used to compare between the products where a statistical output was produced to
+show the results. The methods used in this project can be used for any specific product with public opinions. 
